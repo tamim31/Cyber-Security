@@ -1,0 +1,2 @@
+# Cyber-Security
+This course provides me with essential skills and knowledge to protect systems, networks, and data from cyber threats, which is crucial in today’s digital landscape. It equips me with a deep understanding of core security principles, such as confidentiality, integrity, and availability, enabling me to secure information assets effectively. Learning about network security, risk management, ethical hacking, and cryptography allows me to identify and address vulnerabilities proactively, ensuring robust defenses against cyberattacks.
